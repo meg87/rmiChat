@@ -1,0 +1,7 @@
+Installation steps:
+------------------
+
+0. Create MySQL account has name is "root" without password.
+1. Create database has name is "sims".
+2. Create database table by db.sql file.
+3. Execute run, runServer and runClient files each one in new tab ternimal.
